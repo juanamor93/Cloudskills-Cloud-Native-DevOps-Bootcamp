@@ -1,0 +1,6 @@
+function FunctionName {
+    param (
+        OptionalParameters
+    )
+    
+}
